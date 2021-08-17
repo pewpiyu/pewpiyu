@@ -1,1 +1,2 @@
-<div>👋 Hello, I am <a href="https://notsopiyush.netlify.app">Piyush</a></div> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+<div>👋 Hello, I am <a href="https://notsopiyush.netlify.app">Piyush</a></div> 
+<p> Take a look into my journey in development. </p>
